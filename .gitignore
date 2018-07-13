@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnityPlayGround/UnityPlayGround.Web/bin
+/UnityPlayGround/UnityPlayGround.Web/obj/Debug
+/UnityPlayGround/UnityPlayGround.Services/bin/Debug
+/UnityPlayGround/UnityPlayGround.Services/obj/Debug
+/UnityPlayGround/packages
